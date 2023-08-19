@@ -1,0 +1,18 @@
+{
+  "id": "custom-feature",
+  "title": "Custom Feature",
+  "description": "Let's try to do this.",
+  "authors": [
+    {
+    "name": "StrugglerXIV"
+    }
+  ],
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "10"
+  },
+  "scripts": [
+    "scripts/roller.js"
+  ]
+}

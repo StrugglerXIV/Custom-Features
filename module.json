@@ -14,6 +14,6 @@
     "maximum": 10 
   },
   "scripts": [
-    "/scripts/roller.js"
+    "/scripts"
   ]
 }

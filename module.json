@@ -13,7 +13,7 @@
     "verified": 10, 
     "maximum": 10 
   },
-  "esmodules": [
-    "scripts/roller.js"
+  "scripts": [
+    "/scripts/roller.js"
   ]
 }

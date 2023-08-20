@@ -1,5 +1,5 @@
 {
-  "module-id": "custom-features",
+  "id": "custom-features",
   "title": "Custom Feature",
   "description": "Let's try to do this.",
   "authors": [

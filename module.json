@@ -1,6 +1,7 @@
 {
   "id": "custom-features",
   "title": "Custom Feature",
+  "system": "dnd5e",
   "description": "Let's try to do this.",
   "authors": [
     {

@@ -1,18 +1,15 @@
 {
-  "name": "dice-tray",
-  "title": "Dice Tray",
-  "description" : "<p>description</p>",
+  "id": "dice-tray",
+  "title": "Dice Tray - An Example FVTT Module",
+  "description": "A simple module created as a demo for working in the Foundry Virtual Tabletop framework.",
   "authors": [
     {
-      "name": "StrugglerXIV"
+    "name": "Atropos"
     }
   ],
-  "version": "1.2.0",
-  "minimumCoreVersion": "9",
-  "compatibleCoreVersion": "11",
+  "version": "1.0.0",
   "compatibility": {
-    "minimum": "9",
+    "minimum": "10",
     "verified": "11"
-  },
-  "script" : "scripts/roller.js"
+  }
 }
